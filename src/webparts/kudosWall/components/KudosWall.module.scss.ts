@@ -1,0 +1,32 @@
+const styles = {
+  kudosWall: 'kudosWall_b3c4d5',
+  header: 'header_b3c4d5',
+  title: 'title_b3c4d5',
+  headerActions: 'headerActions_b3c4d5',
+  filterDropdown: 'filterDropdown_b3c4d5',
+  giveButton: 'giveButton_b3c4d5',
+  layout: 'layout_b3c4d5',
+  feed: 'feed_b3c4d5',
+  card: 'card_b3c4d5',
+  cardTop: 'cardTop_b3c4d5',
+  arrow: 'arrow_b3c4d5',
+  badge: 'badge_b3c4d5',
+  message: 'message_b3c4d5',
+  cardFooter: 'cardFooter_b3c4d5',
+  time: 'time_b3c4d5',
+  reactBtn: 'reactBtn_b3c4d5',
+  sidebar: 'sidebar_b3c4d5',
+  leaderboard: 'leaderboard_b3c4d5',
+  leaderboardTitle: 'leaderboardTitle_b3c4d5',
+  leaderboardEmpty: 'leaderboardEmpty_b3c4d5',
+  leaderboardList: 'leaderboardList_b3c4d5',
+  leaderboardRow: 'leaderboardRow_b3c4d5',
+  rank: 'rank_b3c4d5',
+  leaderboardCount: 'leaderboardCount_b3c4d5',
+  formBody: 'formBody_b3c4d5',
+  formField: 'formField_b3c4d5',
+  formLabel: 'formLabel_b3c4d5',
+  formActions: 'formActions_b3c4d5'
+};
+
+export default styles;

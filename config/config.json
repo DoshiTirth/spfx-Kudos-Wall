@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "kudos-wall-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/kudosWall/KudosWallWebPart.js",
+          "manifest": "./src/webparts/kudosWall/KudosWallWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "KudosWallWebPartStrings": "lib/webparts/kudosWall/loc/{locale}.js"
+  }
+}

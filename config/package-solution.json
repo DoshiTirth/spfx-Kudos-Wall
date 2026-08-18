@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-kudos-wall-client-side-solution",
+    "id": "c4f1a9d3-7b2e-4a5c-9d3f-6e8b1c4a7f92",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.0"
+    },
+    "metadata": {
+      "shortDescription": { "default": "Kudos Wall - peer recognition feed and leaderboard" },
+      "longDescription": { "default": "Kudos Wall - peer recognition feed and leaderboard" },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "kudos-wall-client-side-solution Feature",
+        "description": "The feature that activates elements of the kudos-wall-client-side-solution solution.",
+        "id": "1a8f3d6c-2b9e-4d7a-8c1f-5b9e3d7a2c64",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": { "zippedPackage": "solution/spfx-kudos-wall.sppkg" }
+}

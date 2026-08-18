@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f2b8d4a1-5e9c-4b3a-8d1e-7c2f9a4b6e83",
+  "alias": "KudosWallWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab", "SharePointFullPage"],
+  "supportsThemeVariants": true,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": { "default": "Advanced" },
+      "title": { "default": "Kudos Wall" },
+      "description": { "default": "Peer recognition feed, categories, reactions, and a monthly leaderboard" },
+      "officeFabricIconFontName": "Heart",
+      "properties": {
+        "wallTitle": "Kudos Wall",
+        "listName": "",
+        "showLeaderboard": true,
+        "leaderboardCount": 5
+      }
+    }
+  ]
+}
