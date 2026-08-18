@@ -11,7 +11,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![SPFx](https://img.shields.io/badge/SPFx-React-blue.svg)
-![license](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey.svg)
+![license](https://img.shields.io/badge/license-Non--Commercial-lightgrey.svg)
 
 ## Preview
 
